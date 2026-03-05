@@ -1,7 +1,7 @@
 fredapi==0.5.1
 pandas==2.2.3
 plotly==5.24.1
-dash==2.18.2
-dash-bootstrap-components==1.6.0
+dash>=3.3.0
+dash-bootstrap-components>=2.0.0
 python-dotenv==1.0.1
 diskcache==5.6.3
